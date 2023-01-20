@@ -12,6 +12,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SteveOwago&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveOwago&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## My Github Stats
+
+<div style="display: flex;">
+    <div style="width: 100%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=SteveOwago&theme=gotham" />
+    </div>
+    <div style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SteveOwago&theme=gotham&custom_title=Steve Owago%20github%20stats" />
+    </div>
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
